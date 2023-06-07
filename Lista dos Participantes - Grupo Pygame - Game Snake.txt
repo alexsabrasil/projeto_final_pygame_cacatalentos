@@ -1,0 +1,14 @@
+Programa Caça Talentos Python 2022
+
+Projeto: Game of the Python
+
+Lista dos Participantes do Grupo Python Pygame
+
+Em ordem alfabetica
+
+- Alexsandra Tavares Sabino da Silva - email: alexsa.tavares@hotmail.com
+- Emerson José Souza Veira - email: emersonmenjob@gmail.com
+- José Alberto da Silva - email: betcho@gmail.com
+- Laura Silva de Oliveira - email: lauraoliveira2304@gmail.com
+
+
